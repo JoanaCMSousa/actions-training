@@ -69,4 +69,4 @@ For this workshop you need the following:
 Find common terminology for reference [here](./CheatSheet.md)
 
 ## Additional Info
-Add it here
+Add it here. Worklflow should trigger with the pull request.
